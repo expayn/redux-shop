@@ -1,3 +1,3 @@
 # redux-shop
 
-# Hello nma g11
+# Hello nma g
