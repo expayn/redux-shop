@@ -1,3 +1,3 @@
 # redux-shop
 
-# Hel
+# Hello
